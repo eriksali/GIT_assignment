@@ -1,4 +1,3 @@
-I am userB
 This is the initial contents
-of the second file that comprises
+of the second file that comprises I am userB
 our most excellent project.
